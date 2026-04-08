@@ -68,7 +68,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/SakshiAgrawal/prep-pilot.git
+git clone https://github.com/sakshiagrawal03/Prep-Pilot
 
 cd prep-pilot
 
