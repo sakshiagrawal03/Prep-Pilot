@@ -214,3 +214,4 @@ if (!jsonContent.html) {
 }    
 module.exports = {generateInterviewReport,generateResumePdf}
 
+
